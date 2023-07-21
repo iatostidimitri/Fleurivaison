@@ -1,0 +1,12 @@
+/*---------- HEADER ----------*/
+
+header{
+    width:100vw;
+}
+
+.logo{
+    width:300px;
+    /*transform: translate(-50%, -50%);*/
+    margin:0 auto;
+    margin-top: -100px;
+}
