@@ -91,23 +91,3 @@ footer{
     color:#186A77;
 }
 
-#para1 {
-    margin-top: 50px;
-}
-
-.liens11 {
-    display: flex;
-    flex-direction:row;
-    margin-right: 25px;
-    margin-left: 25px;
-
-}
-
-
-.liens22 {
-    display: flex;
-    flex-direction:row;
-    margin-right: 25px;
-    margin-left: 25px;
-
-}
