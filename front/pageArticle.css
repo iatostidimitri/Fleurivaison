@@ -133,6 +133,28 @@ form, h1 {
     justify-self: center;
 }
 
+/* .contenuArticle{
+    display: flex;
+    flex-direction: row;
+    margin: 30px;
+    padding-top: 50px;
+    padding-left: 450 px;
+    align-items: center;
+    justify-items: center;
+
+}
+
+.imgArticle{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 50px;
+    margin-left: 350px;
+    padding-left: 450px;
+    /* align-items: center;
+    justify-content: center; 
+} */
+
 .contenuArticle{
     display: flex;
     flex-direction: row;
@@ -152,6 +174,7 @@ form, h1 {
     padding-top: 50px;
     margin-left: 350px;
     padding-left: 450px;
+    gap: 30px;
 }
 
 .paiementArticle{   
@@ -159,15 +182,17 @@ form, h1 {
     flex-direction: row;
     justify-content: center;
     padding-top: 20px;
-    justify-self: center;
+    align-items: center;
+    margin-left: 350px;
 }
 
 .commandeArticle{   
     display: flex;
     flex-direction: row;
     justify-content: center;
-    justify-self: center;
     padding-top: 20px;
+    align-items: center;
+    margin-left: 350px;
 }
 
 /* #contenuCouronne{
